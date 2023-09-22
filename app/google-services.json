@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "932365599907",
+    "firebase_url": "https://bloodbank-ea694-default-rtdb.firebaseio.com",
+    "project_id": "bloodbank-ea694",
+    "storage_bucket": "bloodbank-ea694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932365599907:android:5cac8c979ad15197e42b16",
+        "android_client_info": {
+          "package_name": "com.example.application_bangladesh_bloodbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAagnDHE8nvCQM9yHlU2xpy3dflIqI9NUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
